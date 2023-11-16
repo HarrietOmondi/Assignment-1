@@ -1,0 +1,57 @@
+.container {
+width: 800px; 
+height: 56px;
+background-color: rgb(109, 166, 109);
+
+}
+
+#salutation {
+    color: rgb(102, 47, 10);
+}
+
+#parent {
+    width: 800px;
+    height: 200px;
+   background-color:rgb(248, 211, 233);
+}
+
+#about {
+    color: rgb(102, 47, 10);
+}
+
+#myinfo {
+    color: rgb(102, 47, 10) ;
+}
+
+#parent2 {
+    width: 800px;
+    height: 200px;
+    background-color:  rgb(109, 166, 109);
+}
+
+#interests {
+color: rgb(102, 47, 10);
+}
+
+#statement {
+    color: rgb(102, 47, 10);
+}
+
+#items {
+    color: rgb(102, 47, 10);
+}
+
+#parent3 {
+    width: 800px;
+    height: 100px;
+    background-color: rgb(248, 211, 233);
+}
+
+#extrainfo {
+    color: rgb(102, 47, 10);
+}
+
+#infoforlink {
+    color: rgb(102, 47, 10);
+}
+
